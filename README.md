@@ -38,4 +38,4 @@ npm start
 
 - api-backend will launch at: http://localhost:8080
 - react-client will launch at: http://localhost:3000
-note: the sign-up page is located at http://localhost:3000/signup
+- note: the sign-up page is located at http://localhost:3000/signup
