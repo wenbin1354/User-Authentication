@@ -8,8 +8,6 @@ import LoginPage from "./pages/LoginPage";
 import SignUpPage from "./pages/SignUpPage";
 import { AuthProvider } from "./context/AuthContext";
 import AuthButton from "./components/AuthButton";
-
-import "./App.css";
 import PrivateRouteRequiresAuth from "./components/PrivateRouteRequiresAuth";
 
 function Navigation(props) {
