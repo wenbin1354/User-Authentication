@@ -1,6 +1,6 @@
 TechStack: React, Node.js, Express.js, Sequelize.js, PostgreSQL, Bootstrap, Bcrypt.js, Passport.js
 
-A full stack web application with React, Express.js, and Sequelize.js, handles user authentication and authorization, protect routes using bcrpyt.js, passport.js .
+A full stack web application with React, Express.js, and Sequelize.js, handles user authentication and authorization, protect routes using passport.js and user security with bcrypt.js
 
 ### Create a PostgreSQL user and database
 
